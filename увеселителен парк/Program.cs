@@ -7,7 +7,8 @@ namespace увеселителен_парк
         static void Main(string[] args)
         {
             // 1. Регистрация на посетители
-
+       Console.WriteLine("Add name");
+            Console.ReadLine();
             ArrayList visitors = new ArrayList()
         {
             "Anna", "Ivan", "Maria", "Georgi",
